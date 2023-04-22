@@ -1,0 +1,186 @@
+.image{
+    width:100px;
+  }
+  .nav-link{
+    font-size:16px;
+  }
+  .background-image{
+    background-image:url('F:/images/food.jpg');
+    background-size:cover;
+    height:110vh;
+  }
+  .center{
+    text-align:center;
+  }
+  .main-head{
+    color:white;
+    font-weight:400;
+  }
+  .head{
+    color:white;
+    font-size:20px;
+    font-weight:400;
+  }
+  .button1{
+    background-color:#d0b200;
+    color:white;
+    width:100px;
+    height:5vh;
+    border-radius:5px;
+    border-width:0px;
+  }
+  .button2{
+    background-color:transparent;
+    color:#d0b200;
+    border-color:#d0b200;
+    width:100px;
+    height:5vh;
+    border-radius:5px;
+  }
+  .head1{
+    color:rgb(13, 13, 104);
+    font-size:30px;
+    font-weight:600;
+  }
+  .container1{
+    background-color:rgb(252, 247, 247);
+    text-align:center;
+    border-radius:8px;
+  }
+  .image1{
+    width:60px;
+  }
+  .head2{
+    font-size:25px;
+    font-weight:400;
+  }
+  .text{
+    font-size:18px;
+    color:rgb(114, 116, 116);
+  }
+  span{
+    color:black;
+    font-weight:500;
+    font-style:italic;
+  }
+  .background{
+    background-color:white;
+  }
+  .head3{
+    color:rgb(4, 4, 86);
+    font-weight:700;
+    font-size:30px;
+  }
+  .image3{
+    border-radius:10px;
+  }
+  .head4{
+    font-family:serif;
+    font-size:23px;
+    font-weight:400;
+  }
+  .link{
+    color:#d0b200;
+  }
+  a:hover{
+    color:red;
+  }
+  .background1{
+     background-color:#fff;
+  }
+  .center1{
+     text-align:center;
+  }
+  .head5{
+     font-size:25px;
+     color:rgb(4, 4, 86);
+  }
+  .text1{
+     font-size:16px;
+  }
+  .button3{
+    color:white;
+    font-size:16px;
+    height:5vh;
+    background-color:orange;
+    border-radius:8px;
+    border-width:0px;
+  }
+  .background-color{
+    background-color:yellowgreen;
+}
+.text-center{
+    text-align:center;
+}
+.image4{
+    width:200px;
+}
+.main-head1{
+    color:rgb(3, 3, 66);
+    font-size:25px;
+    font-weight:500;
+}
+.content{
+    color:rgb(134, 138, 138);
+}
+.order-button{
+    color:white;
+    font-size:16px;
+    height:5vh;
+    background-color:orange;
+    border-radius:8px;
+    border-width:0px;
+}
+.image5{
+    width:40px;
+}
+.background3{
+    background-color:lightgoldenrodyellow;
+    height:60vh;
+}
+.head6{
+    font-size:23px;
+}
+.image6{
+    height:30vh;
+}
+.button6{
+color:white;
+font-size:16px;
+height:5vh;
+background-color:orange;
+border-radius:8px;
+border-width:0px;
+}
+.heading{
+    text-align:center;
+    font-size:40px;
+    color:rgb(13, 13, 104);;
+}
+.icon{
+    font-size:40px;
+    color:#d0b200;
+    border-radius:100px;
+    background-color:rgb(237, 237, 140);
+    width:80px;
+    height:80px;
+    padding-top:20px;
+    padding-left:20px;
+}
+.background-color1{
+  background-color:#0d2436;
+}
+.footer-center{
+  text-align:center;
+}
+.footer-head{
+  font-size:18px;
+  color:#959ead;
+}
+.footer-text{
+  font-size:15px;
+  color:#959ead;
+}
+.footer-image{
+  width:90px;
+}
